@@ -26,7 +26,6 @@ public:
 
 	//FUNCTIONS
 	void render(sf::RenderTarget& target);
-
 };
 
 class TicTacToe
